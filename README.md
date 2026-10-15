@@ -13,7 +13,7 @@ measures, KPI cards, and visual analysis.
 
 ## Dashboard Preview
 
-![PhonePe Transaction Analytics Dashboard](assets/phonepe-dashboard.png)
+![PhonePe Transaction Analytics Dashboard](https://github.com/anasansaree/phonepe-transaction-analytics-powerbi/blob/main/ScreenShot/PhonePe%20Analysis%20ScreenShot.png)
 
 > **Add your screenshot:** Create an `assets` folder in this repository,
 > save your final Power BI dashboard screenshot as
