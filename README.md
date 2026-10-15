@@ -195,10 +195,17 @@ The report was built as a practice project to apply a BI workflow:
 
 ``` text
 phonepe-transaction-analytics/
-├── README.md
-├── assets/
-│   └── phonepe-dashboard.png
-└── PhonePe-Transaction-Analytics.pbix
+│
+├── Analysis Power BI File/
+│   └── PhonePe-Transaction-Analytics.pbix
+│
+├── Design/
+│   └── PhonePe-Dashboard-Design.png
+│
+├── ScreenShot/
+│   └── PhonePe-Dashboard.png
+│
+└── README.md
 ```
 
 Use your actual `.pbix` filename if it differs. Add the source dataset
